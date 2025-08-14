@@ -1,0 +1,11 @@
+order_id,order_date,ship_date,segment,country,state,city,category,sub_category,product_name,quantity,discount,sales,profit
+O-1,2024-01-02,2024-01-05,Consumer,India,Maharashtra,Pune,Technology,Accessories,Wireless Mouse,2,0.05,1200,220
+O-2,2024-01-02,2024-01-06,Corporate,India,Karnataka,Bengaluru,Furniture,Chairs,Ergo Chair,1,0.10,7500,900
+O-3,2024-01-03,2024-01-05,Home Office,India,Delhi,New Delhi,Office Supplies,Binders,Premium Binder,4,0.00,800,150
+O-4,2024-01-04,2024-01-08,Consumer,India,Maharashtra,Mumbai,Technology,Phones,Smartphone X,1,0.05,30000,2500
+O-5,2024-01-05,2024-01-09,Corporate,India,Tamil Nadu,Chennai,Technology,Accessories,Mechanical Keyboard,1,0.00,4500,700
+O-6,2024-01-05,2024-01-07,Consumer,India,Telangana,Hyderabad,Office Supplies,Paper,Printer Paper,5,0.00,1500,200
+O-7,2024-01-06,2024-01-10,Home Office,India,West Bengal,Kolkata,Furniture,Tables,Standing Desk,1,0.15,14000,1200
+O-8,2024-01-07,2024-01-09,Consumer,India,Maharashtra,Pune,Technology,Accessories,USB-C Hub,3,0.00,3000,350
+O-9,2024-01-08,2024-01-11,Corporate,India,Karnataka,Bengaluru,Technology,Laptops,Laptop Pro 13,1,0.05,80000,6000
+O-10,2024-01-09,2024-01-12,Consumer,India,Delhi,New Delhi,Office Supplies,Storage,File Box,2,0.00,900,120
