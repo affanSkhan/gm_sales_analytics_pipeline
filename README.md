@@ -26,9 +26,14 @@
 
 # 
 
-# \## Next
+# \## Day 2: BigQuery Modeling + Marts
+# \- External table over GCS CSV (`ext_sales`)
+# \- Partitioned & clustered `fact_sales` (cleaned types, INITCAP on segment)
+# \- Marts: `mart_daily_sales`, `mart_top_products`
+# \- DQ checks: rowcount, negative values, duplicate order_ids, partition pruning
+# \- Screenshots added in /docs
 
-# \- Day 2: refine SQL + marts
+# \## Next
 
 # \- Day 3: Cloud Composer DAG (ETL)
 
